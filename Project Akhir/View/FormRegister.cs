@@ -28,4 +28,4 @@ namespace Project_Akhir.View
         }
     }
 }
-// test
+// test 2
